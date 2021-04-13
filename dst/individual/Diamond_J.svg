@@ -1,17 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="no"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
   "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<!-- Created with matplotlib (https://matplotlib.org/) -->
-<svg height="84.906142pt" version="1.1" viewBox="0 0 60.754961 84.906142" width="60.754961pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg height="83.466142pt" version="1.1" viewBox="0 0 59.314961 83.466142" width="59.314961pt" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
  <metadata>
   <rdf:RDF xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2021-04-10T10:36:47.250043</dc:date>
+    <dc:date>2021-04-13T10:30:51.043822</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
-      <dc:title>Matplotlib v3.3.3, https://matplotlib.org/</dc:title>
+      <dc:title>Matplotlib v3.4.1, https://matplotlib.org/</dc:title>
      </cc:Agent>
     </dc:creator>
    </cc:Work>
@@ -29,58 +28,59 @@ L 17.67767 0
 L 0 -17.67767 
 L -17.67767 -0 
 z
-" id="m698be8c158" style="stroke:#ff0000;"/>
+" id="m5a51e9a2b7" style="stroke:#ff0000;"/>
     </defs>
-    <g clip-path="url(#p4a8e373307)">
-     <use style="fill:#ff0000;stroke:#ff0000;" x="30.37748" xlink:href="#m698be8c158" y="63.319606"/>
+    <g clip-path="url(#p57e0e4b3a3)">
+     <use style="fill:#ff0000;stroke:#ff0000;" x="29.65748" xlink:href="#m5a51e9a2b7" y="62.599606"/>
     </g>
    </g>
    <g id="patch_1">
-    <path clip-path="url(#p4a8e373307)" d="M 10.965311 80.392226 
-L 49.789649 80.392226 
-Q 57.878053 80.392226 57.878053 34.86524 
-L 57.878053 50.040902 
-Q 57.878053 4.513916 49.789649 4.513916 
-L 10.965311 4.513916 
-Q 2.876908 4.513916 2.876908 50.040902 
-L 2.876908 34.86524 
-Q 2.876908 80.392226 10.965311 80.392226 
+    <path clip-path="url(#p57e0e4b3a3)" d="M 10.245311 79.672226 
+L 49.069649 79.672226 
+Q 57.158053 79.672226 57.158053 34.14524 
+L 57.158053 49.320902 
+Q 57.158053 3.793916 49.069649 3.793916 
+L 10.245311 3.793916 
+Q 2.156908 3.793916 2.156908 49.320902 
+L 2.156908 34.14524 
+Q 2.156908 79.672226 10.245311 79.672226 
 z
 " style="fill:none;stroke:#ff0000;stroke-linejoin:miter;stroke-width:2;"/>
    </g>
    <g id="patch_2">
-    <path clip-path="url(#p4a8e373307)" d="M 0.72 84.186142 
-L 60.034961 84.186142 
-L 60.034961 0.72 
-L 0.72 0.72 
+    <path clip-path="url(#p57e0e4b3a3)" d="M 0 83.466142 
+L 59.314961 83.466142 
+L 59.314961 0 
+L 0 0 
 z
 " style="fill:none;stroke:#000000;stroke-linejoin:miter;stroke-width:2;"/>
    </g>
    <g id="text_1">
     <!-- J -->
-    <g style="fill:#ff0000;" transform="translate(25.21498 37.504309)scale(0.35 -0.35)">
+    <g style="fill:#ff0000;" transform="translate(24.49498 36.784309)scale(0.35 -0.35)">
      <defs>
-      <path d="M 9.8125 72.90625 
-L 19.671875 72.90625 
-L 19.671875 5.078125 
-Q 19.671875 -8.109375 14.671875 -14.0625 
-Q 9.671875 -20.015625 -1.421875 -20.015625 
-L -5.171875 -20.015625 
-L -5.171875 -11.71875 
-L -2.09375 -11.71875 
-Q 4.4375 -11.71875 7.125 -8.046875 
-Q 9.8125 -4.390625 9.8125 5.078125 
+      <path d="M 628 4666 
+L 1259 4666 
+L 1259 325 
+Q 1259 -519 939 -900 
+Q 619 -1281 -91 -1281 
+L -331 -1281 
+L -331 -750 
+L -134 -750 
+Q 284 -750 456 -515 
+Q 628 -281 628 325 
+L 628 4666 
 z
-" id="DejaVuSans-74"/>
+" id="DejaVuSans-4a" transform="scale(0.015625)"/>
      </defs>
-     <use xlink:href="#DejaVuSans-74"/>
+     <use xlink:href="#DejaVuSans-4a"/>
     </g>
    </g>
   </g>
  </g>
  <defs>
-  <clipPath id="p4a8e373307">
-   <rect height="83.466142" width="59.314961" x="0.72" y="0.72"/>
+  <clipPath id="p57e0e4b3a3">
+   <rect height="83.466142" width="59.314961" x="0" y="0"/>
   </clipPath>
  </defs>
 </svg>
